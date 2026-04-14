@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorUnitTest1.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2025-10-31" time="21:46:15">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.9179" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\tools-testing" machine-name="MSI" user="M S I" user-domain="MSI" />
+  <culture-info current-culture="en-ID" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorUnitTest1.dll" executed="True" result="Success" success="True" time="0.099" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CalculatorUnitTest1" executed="True" result="Success" success="True" time="0.092" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CalculatorTest" executed="True" result="Success" success="True" time="0.080" asserts="0">
+            <results>
+              <test-case name="CalculatorUnitTest1.CalculatorTest.PembagianTest" executed="True" result="Success" success="True" time="0.058" asserts="1" />
+              <test-case name="CalculatorUnitTest1.CalculatorTest.PenambahanTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="CalculatorUnitTest1.CalculatorTest.PenguranganTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="CalculatorUnitTest1.CalculatorTest.PerkalianTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

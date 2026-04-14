@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB6BE42-2B3D-4F2F-9FB6-EDAA6F0ED4AF}|CalculatorConsoleTest\\CalculatorConsoleTest.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\calculatorconsoletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB6BE42-2B3D-4F2F-9FB6-EDAA6F0ED4AF}|CalculatorConsoleTest\\CalculatorConsoleTest.csproj|solutionrelative:calculatorconsoletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculatorConsoleTest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D069D37B-68E8-4CE7-8C83-A8D6C1BDB6F6}|CalculatorUnitTest1\\CalculatorUnitTest1.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\calculatorunittest1\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D069D37B-68E8-4CE7-8C83-A8D6C1BDB6F6}|CalculatorUnitTest1\\CalculatorUnitTest1.csproj|solutionrelative:calculatorunittest1\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculatorUnitTest1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibrary\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D069D37B-68E8-4CE7-8C83-A8D6C1BDB6F6}|CalculatorUnitTest1\\CalculatorUnitTest1.csproj|d:\\24.11.6127\\pemrograman lanjut\\modul pertemuan 5\\01 project latihan\\01 latihan\\calculatorunittest1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB6BE42-2B3D-4F2F-9FB6-EDAA6F0ED4AF}|CalculatorConsoleTest\\CalculatorConsoleTest.csproj|d:\\24.11.6127\\pemrograman lanjut\\modul pertemuan 5\\01 project latihan\\01 latihan\\calculatorconsoletest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibrary\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\02 project tugas\\02 tugas\\TugasLibrary\\User.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibrary\\User.cs",
+              "RelativeToolTip": "..\\..\\02 project tugas\\02 tugas\\TugasLibrary\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:16:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorUnitTest1",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorUnitTest1\\CalculatorUnitTest1.csproj",
+              "RelativeDocumentMoniker": "CalculatorUnitTest1\\CalculatorUnitTest1.csproj",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorUnitTest1\\CalculatorUnitTest1.csproj",
+              "RelativeToolTip": "CalculatorUnitTest1\\CalculatorUnitTest1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-31T12:37:17.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorUnitTest1\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "CalculatorUnitTest1\\CalculatorTest.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorUnitTest1\\CalculatorTest.cs",
+              "RelativeToolTip": "CalculatorUnitTest1\\CalculatorTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:52:10.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorConsoleTest",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorConsoleTest\\CalculatorConsoleTest.csproj",
+              "RelativeDocumentMoniker": "CalculatorConsoleTest\\CalculatorConsoleTest.csproj",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorConsoleTest\\CalculatorConsoleTest.csproj",
+              "RelativeToolTip": "CalculatorConsoleTest\\CalculatorConsoleTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-31T11:44:18.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorConsoleTest\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorConsoleTest\\Program.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\01 project latihan\\01 latihan\\CalculatorConsoleTest\\Program.cs",
+              "RelativeToolTip": "CalculatorConsoleTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:31:07.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

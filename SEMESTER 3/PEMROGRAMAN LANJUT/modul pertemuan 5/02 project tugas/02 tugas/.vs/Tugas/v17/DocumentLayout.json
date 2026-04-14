@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3BB44E-F390-427E-9064-4070ABA0C761}|TugasLibrary\\TugasLibrary.csproj|d:\\24.11.6127\\pemrograman lanjut\\modul pertemuan 5\\02 project tugas\\02 tugas\\tugaslibrary\\tugaslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3BB44E-F390-427E-9064-4070ABA0C761}|TugasLibrary\\TugasLibrary.csproj|solutionrelative:tugaslibrary\\tugaslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibraryConsoleTest\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TugasLibraryConsoleTest\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibraryUnitTest\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TugasLibraryUnitTest\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\IsValidUserTest\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IsValidUserTest\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TugasLibrary.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibrary\\TugasLibrary.cs",
+              "RelativeDocumentMoniker": "TugasLibrary\\TugasLibrary.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibrary\\TugasLibrary.cs*",
+              "RelativeToolTip": "TugasLibrary\\TugasLibrary.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:38:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibraryConsoleTest\\Program.cs",
+              "RelativeDocumentMoniker": "TugasLibraryConsoleTest\\Program.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibraryConsoleTest\\Program.cs",
+              "RelativeToolTip": "TugasLibraryConsoleTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:41:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\IsValidUserTest\\Class1.cs",
+              "RelativeDocumentMoniker": "IsValidUserTest\\Class1.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\IsValidUserTest\\Class1.cs",
+              "RelativeToolTip": "IsValidUserTest\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T15:16:14.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibraryUnitTest\\Class1.cs",
+              "RelativeDocumentMoniker": "TugasLibraryUnitTest\\Class1.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\modul pertemuan 5\\02 project tugas\\02 tugas\\TugasLibraryUnitTest\\Class1.cs",
+              "RelativeToolTip": "TugasLibraryUnitTest\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:52:03.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

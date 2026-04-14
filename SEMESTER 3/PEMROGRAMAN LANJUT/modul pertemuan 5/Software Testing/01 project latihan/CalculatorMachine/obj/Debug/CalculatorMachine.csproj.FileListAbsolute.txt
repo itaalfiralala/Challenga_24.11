@@ -1,0 +1,12 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.pdb

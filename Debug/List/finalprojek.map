@@ -1,0 +1,19 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+mati_semua                                                                        0x00045      4
+nyalakan_arah                                                                     0x00049     34
+transisi_kuning                                                                   0x0006B     32
+main                                                                              0x0008B     21

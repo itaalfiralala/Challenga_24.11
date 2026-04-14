@@ -1,0 +1,22 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.AssemblyReference.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\bin\Debug\nunit.framework.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\bin\Debug\nunit.mocks.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\bin\Debug\nunit.framework.xml
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibrary\obj\Debug\TugasLib.70B1D558.Up2Date

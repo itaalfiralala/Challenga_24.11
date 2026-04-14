@@ -1,0 +1,11 @@
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorUnitTest1.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorUnitTest1.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorMachine.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\nunit.framework.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\CalculatorMachine.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\bin\Debug\nunit.framework.xml
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.csproj.AssemblyReference.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.csproj.CoreCompileInputs.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\obj\Debug\Calculat.44CEBC5C.Up2Date
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorUnitTest1\obj\Debug\CalculatorUnitTest1.pdb

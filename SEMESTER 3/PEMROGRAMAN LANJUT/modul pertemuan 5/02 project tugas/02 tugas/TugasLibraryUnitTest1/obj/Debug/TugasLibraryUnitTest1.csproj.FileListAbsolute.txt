@@ -1,0 +1,11 @@
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\bin\Debug\TugasLibraryUnitTest1.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\bin\Debug\TugasLibraryUnitTest1.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\bin\Debug\nunit.framework.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\bin\Debug\TugasLibrary.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\bin\Debug\TugasLibrary.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\bin\Debug\nunit.framework.xml
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\obj\Debug\TugasLibraryUnitTest1.csproj.AssemblyReference.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\obj\Debug\TugasLibraryUnitTest1.csproj.CoreCompileInputs.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\obj\Debug\TugasLib.61A889C4.Up2Date
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\obj\Debug\TugasLibraryUnitTest1.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\02 project tugas\02 tugas\TugasLibraryUnitTest1\obj\Debug\TugasLibraryUnitTest1.pdb

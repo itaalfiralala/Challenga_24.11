@@ -1,0 +1,82 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+const int MAX_BARANG = 100;
+
+struct Barang {
+	int kode;
+	string nama;
+	string kategori;
+	double harga;
+	int stok;
+};
+
+void inputBarang(Barang daftar[], int &jumlah) {
+cout << "Masukan jumlah barang: ";
+cin >> jumlah;
+cin .ignore();
+
+for (int i = 0; i < jumlah; ++i) {
+	cout << "\nBarang ke-" <<i + 1 << ":\n";
+	cout << "kode: ";
+	cin >> daftar[i].kode;
+	cin.ignore():
+	cout << "Nama: ";
+	getline(cin, daftar[i].nama);
+	cout << "kategori: ";
+	etline(cin, daftar[i].kategori);
+	cout << "harga: ";
+	cin >> daftar[i].harga;
+	cout << "stok: ";
+	cin >> daftar[i].stok;
+	cin.ignore
+}
+}
+
+void tampilkanBarang(const Barang daftar[], int jumlah) {
+	cout << "\nDaftar Barang:\n";
+	for (int i=0; i < jumlah; ++i) {
+		cout << "\nBarang ke-" << i + 1 << ":\n"; 
+		cout << "\nKode: " << daftar[i].kode << endl;
+		cout << "\nNama: " << daftar[i].nama << endl;
+		cout << "\nKategori: " << daftar[i].kategori << endl;
+		cout << "\nHarga: Rp" << daftar[i].harga << endl;
+		cout << "\nStok: " << daftar[i].stok << endl;
+	}
+}
+
+void cariBarangBykode (const Barang daftar[], int jumlah, int kodeCari) {
+	bool ditemukan = false;
+	for (int i=0; i < jumlah; ++i) {
+		if (daftar[i].kode == kodeCari) {
+			cout << "\nBarang ditemukan:\n";
+			cout << "kode: " << daftar[i].kode << endl;
+				 << "\nNama: " << daftar[i].nama << endl;
+			     << "\nKategori: " << daftar[i].kategori << endl;
+				 << "\nHarga: Rp" << daftar[i].harga << endl;
+				 << "\nStok: " << daftar[i].stok << endl;
+				 ditemukan = true;
+				 break;
+		}
+	}
+	if (!ditemukan) {
+		cout << "Barang dengan kode " << kodreCari << " tidak ditemukan.\n";
+	}
+}
+
+int main() {
+	Barang daftarBarang[MAX_BARANG];
+	int jumlahBarang;
+	int kodeCari;
+	
+	inputBarang(daftarBarang, jumlahBarang);
+	tampilBarang(daftarBarang, jumlahBarang);
+	
+	int kodeCari;
+	cout << "\nMasukan kode barang yang dicari: ";
+	cin >> kodeCari;
+	cariBarangBykode(daftarBarang, jumlahBarang, kodeCari);
+	return 0;
+}
+

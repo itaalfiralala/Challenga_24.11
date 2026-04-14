@@ -1,0 +1,14 @@
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe.config
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.AssemblyReference.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CoreCompileInputs.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\obj\Debug\Calculat.D6EB4408.Up2Date
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.exe
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorUnitTest1.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\nunit.framework.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorUnitTest1.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorConsoleTest\bin\Debug\nunit.framework.xml

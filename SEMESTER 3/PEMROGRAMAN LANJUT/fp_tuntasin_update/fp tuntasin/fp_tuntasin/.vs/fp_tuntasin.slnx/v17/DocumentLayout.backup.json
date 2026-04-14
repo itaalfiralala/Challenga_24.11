@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\formberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\formberanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\formdaftar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\formdaftar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\formkategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\formlaporan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\formnotifikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\formnotifikasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\kategoribully.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\kategoribully.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\kategorikecelakaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\kategorikecelakaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\kategorikriminalitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\kategorikriminalitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|d:\\24.11.6127\\pemrograman lanjut\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\kategoripelecehan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\kategoripelecehan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|d:\\24.11.6127\\pemrograman lanjut\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\formlaporan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\formlaporan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|d:\\24.11.6127\\pemrograman lanjut\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\kategoripelecehan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B8783A-6919-411F-A8A5-924A43A484AF}|fp_tuntasin\\fp_tuntasin.csproj|solutionrelative:fp_tuntasin\\kategoripelecehan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KategoriPelecehan.Designer.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriPelecehan.Designer.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\KategoriPelecehan.Designer.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriPelecehan.Designer.cs*",
+              "RelativeToolTip": "fp_tuntasin\\KategoriPelecehan.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:58:40.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLaporan.Designer.cs",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormLaporan.Designer.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\FormLaporan.Designer.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormLaporan.Designer.cs",
+              "RelativeToolTip": "fp_tuntasin\\FormLaporan.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:37:08.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KategoriPelecehan.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriPelecehan.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\KategoriPelecehan.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriPelecehan.cs [Design]*",
+              "RelativeToolTip": "fp_tuntasin\\KategoriPelecehan.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:37.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kategoriKriminalitas.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\kategoriKriminalitas.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\kategoriKriminalitas.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\kategoriKriminalitas.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\kategoriKriminalitas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:35.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KategoriKecelakaan.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriKecelakaan.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\KategoriKecelakaan.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriKecelakaan.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\KategoriKecelakaan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:33.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KategoriBully.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriBully.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\KategoriBully.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\KategoriBully.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\KategoriBully.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:32.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNotifikasi.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormNotifikasi.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\FormNotifikasi.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormNotifikasi.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\FormNotifikasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:31.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMasuk.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormMasuk.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\FormMasuk.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormMasuk.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\FormMasuk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:28.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLaporan.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormLaporan.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\FormLaporan.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormLaporan.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\FormLaporan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:27.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormKategori.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormKategori.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\FormKategori.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormKategori.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\FormKategori.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:25.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDaftar.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormDaftar.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\FormDaftar.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormDaftar.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\FormDaftar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:23.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBeranda.cs [Design]",
+              "DocumentMoniker": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormBeranda.cs",
+              "RelativeDocumentMoniker": "fp_tuntasin\\FormBeranda.cs",
+              "ToolTip": "D:\\24.11.6127\\PEMROGRAMAN LANJUT\\fp_tuntasin_update\\fp tuntasin\\fp_tuntasin\\fp_tuntasin\\FormBeranda.cs [Design]",
+              "RelativeToolTip": "fp_tuntasin\\FormBeranda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T05:20:20.942Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

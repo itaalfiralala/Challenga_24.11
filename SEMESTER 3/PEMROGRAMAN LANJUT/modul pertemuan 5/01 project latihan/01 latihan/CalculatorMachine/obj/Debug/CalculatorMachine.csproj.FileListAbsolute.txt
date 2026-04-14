@@ -1,0 +1,18 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.AssemblyReference.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+D:\24.11.6127\PEMROGRAMAN LANJUT\modul pertemuan 5\01 project latihan\01 latihan\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
